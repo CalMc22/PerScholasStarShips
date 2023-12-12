@@ -1,0 +1,21 @@
+.app {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
+
+.title {
+  background-color: black;
+  color: white;
+  display: flex;
+  justify-content: center
+}
+
+.starship-card {
+  border: 1px solid #ccc;
+  background-color: teal;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+}
